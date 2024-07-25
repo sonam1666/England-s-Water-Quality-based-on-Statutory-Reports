@@ -1,0 +1,12 @@
+name: shyniapp
+title: ShyniApp
+username: omnenk-sonam-chavan
+account: omnenk-sonam-chavan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12268899
+bundleId: 8872206
+url: https://omnenk-sonam-chavan.shinyapps.io/shyniapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
